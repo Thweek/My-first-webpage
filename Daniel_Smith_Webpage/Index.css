@@ -3,5 +3,32 @@
     background:#9449f7;
     color: white;
     padding: 25px;
+    font-size: 1.5em;
+}
 
+.row {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1.2em;
+}
+
+.column {
+    float: right;
+}
+
+.left {
+    width: 70%;
+    text-align: center; 
+    
+  }
+
+.right {
+    width: 30%;
+
+  }
+
+#image1 {
+    width: 250px;
+    height: 250px;
 }
